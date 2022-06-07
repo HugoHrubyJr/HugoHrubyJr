@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoHrubyJr
 - 👀 I’m a developer
-- 🌱 I’m currently learning programming on Harvard, CursoemVídeo and RocketSeat.
+- 🌱 I’m currently learning Programming Language on Harvard, CursoemVídeo and RocketSeat.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hugohrubyjr@yahoo.com
 
